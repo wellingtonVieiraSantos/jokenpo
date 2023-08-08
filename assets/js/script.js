@@ -6,7 +6,7 @@ const placarPlayer = document.querySelector('.player')
 const placarCpu= document.querySelector('.cpu')
 const divRes = document.querySelector('.res')
 
-const placarFinal = 1
+const placarFinal = 5
 btn.disabled = false
 
 let placarPlayer1 = placarPlayer2 = 0
